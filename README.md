@@ -1,7 +1,9 @@
 # Hello-World
-GitHub Tutorial
+# GitHub Tutorial
+Hi Planets people!
 
-Hi Planets!
+On here contains differents types of 'Hello World'... just made for fun...
+Welcome to my mess...
 
-This is my short introduction for Git.
+This is my short introduction for Git too.
 See you soon...
