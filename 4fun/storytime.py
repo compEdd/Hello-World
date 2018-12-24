@@ -1,3 +1,6 @@
+#Projeto importado da RaspberryPiProjects
+#https://projects.raspberrypi.org/en/projects/storytime
+
 import random
 
 print("Hello reader")

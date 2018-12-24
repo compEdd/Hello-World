@@ -1,3 +1,7 @@
+# Projeto baseado no turtle race da RaspberryPiProjects
+# https://projects.raspberrypi.org/en/projects/turtle-race##
+# Modificado por Ed Canto
+
 from turtle import *
 #from turtle import ScrolledCanvas, RawTurtle, TurtleScreen
 from random import randint
